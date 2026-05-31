@@ -1,0 +1,17 @@
+# Binaries
+*.exe
+*.test
+*.out
+/tmp/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+
+# Binaries at root
+/compare
+/fulltable
